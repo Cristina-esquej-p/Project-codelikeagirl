@@ -54,3 +54,7 @@ h3 {
     font-size: 27pt;
     color: rgb(157, 213, 245);
 }
+.video {
+    width: 100vw;
+    min-height: 85vh;
+}
