@@ -65,10 +65,10 @@ h3 {
 }
 @media (min-width: 798px) {
     .card-text{
-        font-size: 4em;
+        font-size: 7em;
     }
     .card-title{
-        font-size: 3em;
+        font-size: 5em;
         color: rgb(157, 213, 245);
     
     }
