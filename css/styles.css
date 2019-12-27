@@ -46,15 +46,68 @@ h3 {
 }
 
 .card-title{
-    font-size: 27pt;
+    font-size: 1em;
     color: rgb(157, 213, 245);
 
 }
 .card-text{
-    font-size: 27pt;
+    font-size: 1em;
     color: rgb(157, 213, 245);
 }
 .video {
     width: 100vw;
     min-height: 85vh;
+}
+@media (min-width: 798px) {
+    .card-text{
+        font-size: 4em;
+    }
+    .card-title{
+        font-size: 3em;
+        color: rgb(157, 213, 245);
+    
+    }
+}
+
+
+#button {
+    padding: 2.4;
+    
+    }
+
+#button li{
+        display: inline;
+        }
+
+
+#button li a {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            font-size: 20px;
+            text-decoration: none;
+            float: left;
+            padding: 10px;
+            background-color: #6dafe6;
+            color: #fff;
+            }
+#button li a:hover {
+                background-color: #87b3d8;
+                margin-top: -2;
+                padding-bottom: 12px;]
+                }
+
+.card{
+    font-size: 4pt;
+    margin-top: cm;
+    color: black;
+}
+
+.card-body{
+    font-size: 4pt;
+    margin-top: cm;
+}
+.card-title2{
+    font-size: 16pt;
+}
+.card-text2{
+    font-size: 16pt;
 }
